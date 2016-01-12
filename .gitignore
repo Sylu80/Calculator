@@ -1,0 +1,11 @@
+# /
+/*.iml
+/.classpath
+/.clover
+/.idea
+/.project
+/.settings
+/.settings/*
+/bin
+/target
+
